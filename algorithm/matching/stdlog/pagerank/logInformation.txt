@@ -1,0 +1,3 @@
+parser is xmlParsing.py
+target file spark_master/yarn-site.xml option is pagerank
+name -m value yarn.resourcemanager.address 172.17.0.2:8032
